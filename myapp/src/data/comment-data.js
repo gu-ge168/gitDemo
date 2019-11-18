@@ -1,0 +1,33 @@
+//表情图数据集
+export const faceData={
+        src:[require("../data/images/icon_desolate.gif"),
+        require("../data/images/icon_kiss.gif"),
+        require("../data/images/icon_cool.gif"),
+        require("../data/images/icon_cry.gif"),
+        require("../data/images/icon_delicious.gif"),
+        require("../data/images/icon_shut-up.gif"),
+        require("../data/images/icon_exclaim.gif"),
+        require("../data/images/icon_idea.gif"),
+        require("../data/images/icon_lol.gif"),
+        require("../data/images/icon_mad.gif"),
+        require("../data/images/icon_mrgreen.gif"),
+        require("../data/images/icon_neutral.gif"),
+        require("../data/images/icon_question.gif"),
+        require("../data/images/icon_razz.gif"),
+        require("../data/images/icon_redface.gif"),
+        require("../data/images/icon_rolleyes.gif"),
+        require("../data/images/icon_sad.gif"),
+        require("../data/images/icon_smile.gif"),
+        require("../data/images/icon_surprised.gif"),
+        require("../data/images/icon_twisted.gif"),
+        require("../data/images/icon_wink.gif"),
+        require("../data/images/icon_confused.gif")],
+        title:["冷落","飞吻","酷","大哭","舔","闭嘴","调皮","恶心","邪恶","发怒","挑逗","害羞","无语"
+                ,"好色","大骂","得意","郁闷","微笑","惊讶","狂喜","饿","困惑"],
+        name:["desolate","kiss","cool","cry",
+            "delicious","shut-up","naughty","sick",
+            "wicked","angry","provoke","pudency",
+            "speechless","amorousness","curse","complacent",
+            "sad","smile","surprised","ecstatic",
+            "hungry","confused"]
+}
